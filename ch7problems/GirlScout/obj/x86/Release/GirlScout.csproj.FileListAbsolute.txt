@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\GirlScout\bin\Release\GirlScout.exe
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\GirlScout\bin\Release\GirlScout.pdb
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\GirlScout\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\GirlScout\obj\x86\Release\GirlScout.exe
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\GirlScout\obj\x86\Release\GirlScout.pdb

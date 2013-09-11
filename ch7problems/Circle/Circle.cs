@@ -8,8 +8,6 @@ namespace Circle
     class Circle
     {
         double radius;
-        double area;
-        double diameter;
 
         public Circle()
         {
@@ -25,8 +23,6 @@ namespace Circle
             set
             {
                 radius = value;
-                diameter = radius * 2;
-                area = radius * radius * Math.PI;
             }
         }
 
@@ -34,7 +30,7 @@ namespace Circle
         {
             get
             {
-                return diameter;
+                return radius * 2;
             }
         }
 
@@ -42,7 +38,7 @@ namespace Circle
         {
             get
             {
-                return area;
+                return radius * radius * Math.PI;
             }
         }
 

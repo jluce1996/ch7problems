@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Houseplants", "Houseplants\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csproj", "{445C015D-E65D-474F-9931-615D68EF7111}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GirlScout", "GirlScout\GirlScout.csproj", "{A2F87F8F-DAF8-4C07-8C44-85D8DCF9B0AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +27,10 @@ Global
 		{445C015D-E65D-474F-9931-615D68EF7111}.Debug|x86.Build.0 = Debug|x86
 		{445C015D-E65D-474F-9931-615D68EF7111}.Release|x86.ActiveCfg = Release|x86
 		{445C015D-E65D-474F-9931-615D68EF7111}.Release|x86.Build.0 = Release|x86
+		{A2F87F8F-DAF8-4C07-8C44-85D8DCF9B0AE}.Debug|x86.ActiveCfg = Debug|x86
+		{A2F87F8F-DAF8-4C07-8C44-85D8DCF9B0AE}.Debug|x86.Build.0 = Debug|x86
+		{A2F87F8F-DAF8-4C07-8C44-85D8DCF9B0AE}.Release|x86.ActiveCfg = Release|x86
+		{A2F87F8F-DAF8-4C07-8C44-85D8DCF9B0AE}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
