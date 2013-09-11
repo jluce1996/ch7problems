@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPizza", "problem1\TestP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Houseplants", "Houseplants\Houseplants.csproj", "{74CCF73C-E370-4930-BF25-65D1FC68A3E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csproj", "{445C015D-E65D-474F-9931-615D68EF7111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{74CCF73C-E370-4930-BF25-65D1FC68A3E6}.Debug|x86.Build.0 = Debug|x86
 		{74CCF73C-E370-4930-BF25-65D1FC68A3E6}.Release|x86.ActiveCfg = Release|x86
 		{74CCF73C-E370-4930-BF25-65D1FC68A3E6}.Release|x86.Build.0 = Release|x86
+		{445C015D-E65D-474F-9931-615D68EF7111}.Debug|x86.ActiveCfg = Debug|x86
+		{445C015D-E65D-474F-9931-615D68EF7111}.Debug|x86.Build.0 = Debug|x86
+		{445C015D-E65D-474F-9931-615D68EF7111}.Release|x86.ActiveCfg = Release|x86
+		{445C015D-E65D-474F-9931-615D68EF7111}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

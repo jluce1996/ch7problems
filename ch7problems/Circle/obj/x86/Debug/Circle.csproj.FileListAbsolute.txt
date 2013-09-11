@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Circle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Circle\bin\Debug\Circle.exe
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Circle\bin\Debug\Circle.pdb
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Circle\obj\x86\Debug\Circle.exe
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Circle\obj\x86\Debug\Circle.pdb

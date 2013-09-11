@@ -1,1 +1,5 @@
 C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Houseplants\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Houseplants\bin\Debug\Houseplants.exe
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Houseplants\bin\Debug\Houseplants.pdb
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Houseplants\obj\x86\Debug\Houseplants.exe
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Houseplants\obj\x86\Debug\Houseplants.pdb
