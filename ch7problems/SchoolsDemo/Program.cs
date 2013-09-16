@@ -25,7 +25,7 @@ namespace SchoolsDemo
         static void Main(string[] args)
         {
             string schoolname;
-            int enrollment;
+            int enrollment, minenrollment;
             int i;
                       
             School[] school = new School[5];
@@ -44,6 +44,16 @@ namespace SchoolsDemo
             {
                 Console.WriteLine(school[i].schoolname);
             }
+
+            Console.Write("Enter minimum enrollment: ");
+            string input = Console.ReadLine();
+            minenrollment = Convert.ToInt32(input);
+
+             for (i = 0; i < school.Length; i++)
+             {
+                if (school[i].enrollment >= minenrollment)
+                    Console.WriteLine(school[i].schoolname + school[i].enrollment);
+             }
         }
     }
 }
