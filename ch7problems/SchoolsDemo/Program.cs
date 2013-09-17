@@ -10,7 +10,8 @@ namespace SchoolsDemo
         public static void GetData(out string schoolname, out int enrollment)
         {
             string input;
-           
+            
+
             Console.Write("Enter the enrollment: ");
             input = Console.ReadLine();
             enrollment = Convert.ToInt32(input);
@@ -28,7 +29,7 @@ namespace SchoolsDemo
             int enrollment, minenrollment;
             int i;
                       
-            School[] school = new School[5];
+           School[] school = new School[5];
            
             for(i = 0; i < school.Length; i++)
             {

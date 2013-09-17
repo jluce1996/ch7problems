@@ -1,1 +1,5 @@
 C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Friend\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Friend\bin\Debug\Friend.exe
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Friend\bin\Debug\Friend.pdb
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Friend\obj\x86\Debug\Friend.exe
+C:\Users\eahscs\Documents\GitHub\ch7problems\ch7problems\Friend\obj\x86\Debug\Friend.pdb
