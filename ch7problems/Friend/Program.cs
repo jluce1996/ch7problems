@@ -39,8 +39,7 @@ namespace Friend
             int month, day, year;
             int i;
             string phone;
-            
-            
+            Friend myfriend = null;
 
             Friend[] friend;
             friend = new Friend[3];
@@ -63,13 +62,27 @@ namespace Friend
             Console.Write("Enter a specific friend's name:");
                 name = Console.ReadLine();
 
+            for (i = 0; i < friend.Length; i++)
+            {
+                if (name == friend[i].name)
+                {
+                    myfriend = friend[i];                      
+                }
+            }
+
+            if (myfriend != null)
+            {
+                Console.WriteLine("Phone: {0}, Birthday: {1}/{2}/{3}", myfriend.phone, myfriend.month, myfriend.day, myfriend.year);
+                Console.WriteLine("Friends with the same birthday: ");
                 for (i = 0; i < friend.Length; i++)
                 {
-                    if (name == friend[i].name)
+                    if (myfriend.month== friend[i].month)
                     {
-                        Console.WriteLine("Phone: {0}, Birthday: {1}/{2}/{3}", friend[i].phone, friend[i].month, friend[i].day, friend[i].year); 
+                        Console.WriteLine(friend[i].name);
                     }
                 }
+
+            }
         }
     }
 }
